@@ -1,6 +1,6 @@
 # CACL
 The repository contains the implementations for "**Cross-Scene Hyperspectral Image Classification With Consistency-Aware Customized Learning**".You can find [the PDF of this paper](https://ieeexplore.ieee.org/document/10659915).
-![CACL](https://github.com/Ding-Kexin/IEEE_TCSVT_CACL/blob/main/CACL_framework.pdf)
+![CACL](https://github.com/Ding-Kexin/IEEE_TCSVT_CACL/blob/main/CACL_framework.jpg)
 ****
 # Train UACL
 ``` 
